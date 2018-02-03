@@ -38,9 +38,9 @@ Main Works:
 * **Technology Used**: Python / Django / PostgreSQL / JavaScript / D3.js / Bootstrap / AWS / Ansible
 * **Developed**: Data aggregation and analysis result visualization function / Hospital and pharmacy data management function
 * **Designed**: Database / UI
-<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/scatter_plot.png" alt="scatter_plot" title="scatter_plot" width="300px">
-<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/map.png" alt="map" title="map"  width="300px">
-<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/histogram.png" alt="histogram" title="histogram" width="300px">
+<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/scatter_plot.png" alt="scatter_plot" title="scatter_plot">
+<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/map.png" alt="map" title="map" >
+<img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/histogram.png" alt="histogram" title="histogram">
 
 **Web reservation system for new graduate recruitment interview**
 * **FROM-TO**: May 2017 – February 2018
