@@ -1,9 +1,9 @@
-# Daisuke Sonoda
+# Daisuke Sonoda's CV
 E-mail: dksonoda@gmail.com  
 Github: https://github.com/dsonoda  
 Blog: http://d5ono.hatenablog.com  
 Twitter: [@d5ono](https://twitter.com/d5ono)  
-[Qiita](https://qiita.com/d5ono)  
+Qiita: https://qiita.com/d5ono  
 [FaceBook](https://www.facebook.com/daisuke.sonoda.758)  
 
 ## SUMMARY
