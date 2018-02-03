@@ -62,3 +62,8 @@ Main Works:
 ## EDUCATION
 Bachelor of Arts, March, 2004  
 [Tama Art University](http://www.tamabi.ac.jp), Tokyo, Japan
+
+## ACTIVITY
+**[Presentation on machine learning application case study](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)**
+* **DATE**: October 2017
+* **PLACE**: Ward office of Toshima-ku, Japan
