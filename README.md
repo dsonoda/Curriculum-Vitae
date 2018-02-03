@@ -1,5 +1,4 @@
-# Curriculum Vitae
-Daisuke Sonoda's CV.  
+# Daisuke Sonoda
 E-mail: dksonoda@gmail.com  
 Github: https://github.com/dsonoda  
 Blog: http://d5ono.hatenablog.com  
