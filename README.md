@@ -41,7 +41,7 @@ Main works:
 <img src="https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/images/Web_system_for_medical_product_sales_support/data_visualization/histogram.png" alt="histogram" title="histogram">
 
 **Web reservation system for new graduate recruitment interview**
-* **From-To**: May 2017 – February 2018
+* **From-To**: April 2017 – February 2018
 * **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the interview reservation system for recruiting university new graduates. In this system, needed a function to link student and reservation frame data from SalesForce system already used by customer.
 * **Role**: Project Leader / Software development / Project management
@@ -50,14 +50,70 @@ Main works:
 * **Developed**: Reservation management system / Coordination function with SalesForce, AWS
 * **Designed**: Database / UI
 
+**Web management system for book information**
+* **From-To**: November 2016 – February 2017
+* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
+* **Summary**: Developed the content management system for digital managing the number of book stocks and orders in major Japanese bookstore. Developed the function to issue a unique serial number and encrypt book information, which is necessary to replenish stocks of missing books.
+* **Role**: Project Leader / Software development / Project management
+* **Project scale**: 2 developers.
+* **Technology used**: PHP / CakePHP / MySQL / JavaScript / jQuery
+* **Developed**: API function for issuing serial code of books / Encryption function of book information / Book management function / Serial code issuer management function / Administrator management function
+* **Designed**: Database / UI
+
+**Information display management system of credit company website**
+* **From-To**: April 2016 – May 2016
+* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
+* **Summary**: Developed a system to control explanation of use of credit card, preferential information to users, advertisement display to users, for posting on the top page of a major Japanese credit company. At the request of the client, it was necessary to implement all the control system with JavaScript. Using the user information passed from the server side, implemented an information control function by executing the API with JavaScript.
+* **Role**: Project Leader / Software development / Project management
+* **Project scale**: 2 developers.
+* **Technology used**: JavaScript / jQuery
+* **Developed**: Preferential information display control function to users / Advertisement display control function to users
+
+**API development of content management package system for inventory control of apparel physical distribution**
+* **From-To**: November 2015 – February 2016
+* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
+* **Summary**: In this system, manage raw materials of clothing, color designation, type of photograph, request order to processors, tracking of production process, inventory management, and shipping routes to retail stores. Processing of each process was installed on a separate server, so it needed to develop an API to connect the data between the processes.
+* **Role**: Software development
+* **Project scale**: 3 developers.
+* **Technology used**: PHP / PostgreSQL
+* **Developed**: API for connecting data between processes
+
 **Web reservation system for seminars and conference rooms**
-* **From-To**: April 2013 – January 2014
+* **From-To**: November 2014 – March 2015
 * **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the system for reserving conference rooms for seminars for household product sales. In this system, the administrator can create a reservation frame every 10 minutes from the calendar. In addition, developed so that the administrator can control various priority reservations and special reservations according to elements such as the address of the conference room and rank of members.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 5 developers. The number of members of the web site is 700,000 people throughout Japan.
 * **Technology used**: PHP / ZendFramework / SQL Server / JavaScript / jQuery
-* **Developed**: Reservation management system / Reservation control function by member rank / Customization for reducing site load
+* **Developed**: Reservation management system / Reservation control function by member rank / Customization for reducing site load / LDAP authentication login function
+* **Designed**: Database / UI
+
+**Web reservation system for contents of sports gym**
+* **From-To**: September 2013 – October 2013
+* **Summary**: Developed web reservation system for use of sports gym facilities. Needed to implement a lottery function to be able to book popular fitness studio lessons.
+* **Role**: Project Leader / Software development / Project management
+* **Project scale**: 4 developers. The number of stores in Tokyo is 33 stores.
+* **Technology used**: PHP / ZendFramework / PostgreSQL / JavaScript / jQuery
+* **Developed**: Reservation management system / Lottery function for reservation
+* **Designed**: Database
+
+**Content management and settlement system development of singer's smartphone Web site**
+* **From-To**: April 2013 – August 2013
+* **Summary**: Developed content and settlement management website of popular singer unit in Japan. Using the payment function of GMO, implemented credit settlement, convenience store payment function.
+* **Role**: Software development
+* **Project scale**: 4 developers. Japan's popular singer's website with more than 100,000 members.
+* **Technology used**: PHP / PostgreSQL / JavaScript / jQuery
+* **Developed**: Member management function / Monthly payment function
+* **Designed**: Database
+
+**Web contents management system for displaying drive and tourist and member preferential information**
+* **From-To**: December 2008 – April 2009
+* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
+* **Summary**: Developed the system to display the content of driving spots throughout Japan and manage membership benefit information of the content management system of a major automobile related business corporation group developing nationwide.
+* **Role**: Software development
+* **Project scale**: 4 developers.
+* **Technology used**: PHP / PostgreSQL / JavaScript / jQuery
+* **Developed**: Member management function / Content information control function by member status
 * **Designed**: Database / UI
 
 ## ACTIVITY
@@ -72,7 +128,7 @@ Main works:
 
 **[Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan**
 * **Position**: Software Engineer
-* **From-To**: December 2007 – Present
+* **From-To**: January 2008 – Present
 
 ## EDUCATION
 **[Tama Art University](http://www.tamabi.ac.jp), Tokyo, Japan**
