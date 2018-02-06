@@ -63,7 +63,7 @@ Main works:
 **Information display management system of credit company website**
 * **From-To**: April 2016 – May 2016
 * **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
-* **Summary**: Developed a system to control explanation of use of credit card, preferential information to users, advertisement display to users, for posting on the top page of a major Japanese credit company. At the request of the client, it was necessary to implement all the control system with JavaScript. Using the user information passed from the server side, implemented an information control function by executing the API with JavaScript.
+* **Summary**: Developed the system to control explanation of use of credit card, preferential information to users, advertisement display to users, for posting on the top page of a major Japanese credit company. At the request of the client, it was necessary to implement all the control system with JavaScript. Using the user information passed from the server side, implemented an information control function by executing the API with JavaScript.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 2 developers.
 * **Technology used**: JavaScript / jQuery
