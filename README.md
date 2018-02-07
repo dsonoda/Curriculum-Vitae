@@ -42,7 +42,6 @@ Main works:
 
 **Web reservation system for new graduate recruitment interview**
 * **From-To**: April 2017 – February 2018
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the interview reservation system for recruiting university new graduates. In this system, needed a function to link student and reservation frame data from SalesForce system already used by customer.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 3 developers. The number of members of the web site is 60,000 people throughout Japan.
@@ -52,7 +51,6 @@ Main works:
 
 **Web management system for book information**
 * **From-To**: November 2016 – February 2017
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the content management system for digital managing the number of book stocks and orders in major Japanese bookstore. Developed the function to issue a unique serial number and encrypt book information, which is necessary to replenish stocks of missing books.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 2 developers.
@@ -62,7 +60,6 @@ Main works:
 
 **Information display management system of credit company website**
 * **From-To**: April 2016 – May 2016
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the system to control explanation of use of credit card, preferential information to users, advertisement display to users, for posting on the top page of a major Japanese credit company. At the request of the client, it was necessary to implement all the control system with JavaScript. Using the user information passed from the server side, implemented an information control function by executing the API with JavaScript.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 2 developers.
@@ -71,7 +68,6 @@ Main works:
 
 **API development of content management package system for inventory control of apparel physical distribution**
 * **From-To**: November 2015 – February 2016
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: In this system, manage raw materials of clothing, color designation, type of photograph, request order to processors, tracking of production process, inventory management, and shipping routes to retail stores. Processing of each process was installed on a separate server, so it needed to develop an API to connect the data between the processes.
 * **Role**: Software development
 * **Project scale**: 3 developers.
@@ -80,7 +76,6 @@ Main works:
 
 **Web reservation system for seminars and conference rooms**
 * **From-To**: November 2014 – March 2015
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the system for reserving conference rooms for seminars for household product sales. In this system, the administrator can create a reservation frame every 10 minutes from the calendar. In addition, developed so that the administrator can control various priority reservations and special reservations according to elements such as the address of the conference room and rank of members.
 * **Role**: Project Leader / Software development / Project management
 * **Project scale**: 5 developers. The number of members of the web site is 700,000 people throughout Japan.
@@ -108,14 +103,15 @@ Main works:
 
 **Web contents management system for displaying drive and tourist and member preferential information**
 * **From-To**: December 2008 – April 2009
-* **Belonging**: [Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan
 * **Summary**: Developed the system to display the content of driving spots throughout Japan and manage membership benefit information of the content management system of a major automobile related business corporation group developing nationwide.
 * **Role**: Software development
 * **Project scale**: 4 developers.
 * **Technology used**: PHP / PostgreSQL / JavaScript / jQuery
 * **Developed**: Member management function / Content information control function by member status
 * **Designed**: Database / UI
-
+  
+etc...  
+  
 ## ACTIVITY
 **[Presentation on machine learning application case study](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)**
 * **Date**: October 27, 2017
