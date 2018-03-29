@@ -6,7 +6,7 @@
 
 ## SUMMARY
 * 11+ years of experience in development of web reservation system and project management.
-* 9 months of experience in development of data analysis & visualization application & recommendation engine by machine learning.
+* 11 months of experience in development of data analysis & visualization application & recommendation engine by machine learning.
 
 ## SKILLS
 | TITLE | REMARKS |
