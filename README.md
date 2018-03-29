@@ -24,7 +24,7 @@ Main works:
 * **Summary**: Developed the system that recommends and displays serendipity real estate information to users, using user tracking data and site cookie. Generated data for machine learning using the probability distribution, since there was not enough data.
 * **Role**: Project Leader / Project management / Programmer
 * **Project scale**: 1 manager and 2 developers.
-* **Technology used**: Python / Django / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
+* **Technology used**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
 
 **Presentation on machine learning application case study**
 * **Date**: October 27, 2017
