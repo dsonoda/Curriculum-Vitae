@@ -18,7 +18,6 @@
 
 ## 職務経歴
 主要な経歴: 
-
 **不動産情報、及び物件のレコメンドエンジンを持つWebアプリケーション**
 * **期間**: 2017/10 - 現在
 * **概要**: ユーザー追跡データとサイトクッキーを使用して、ユーザーに不動産情報を推奨して表示するシステムを開発しました。十分なデータが存在しなかったため、確率分布を利用した機械学習データの生成処理も作成しました。
@@ -26,16 +25,11 @@
 * **プロジェクトの規模**: マネージャ 1名、開発者 2名。
 * **使用した技術**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
 
-**機械学習アプリケーションの事例研究に関するプレゼンテーション**
-* **開催日**: 2017/10/27
-* **開催場所**: [豊島区役所](http://www.city.toshima.lg.jp/012/018294.html)
-* **Document**: "[アクセスユーザーに会員登録させないでおすすめ商品情報を表示して利益を上げる方法](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)"
-
-**Web application for medical product sales support through data analysis**
-* **期間**: June 2017 – July 2017
-* **概要**: Prototyped the system supporting medical product sellers through data analysis. Visualized characteristics of Japanese local area by many kinds of graphs: scatter plot, bar chart, map chart.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 1 manager and 2 developers.
+**データ分析による医療製品販売サポートのためのWebアプリケーション**
+* **期間**: 2017/6 – 2017/7
+* **概要**: 日本の地域の特性を散布図・棒グラフ・地図によって可視化し、データ分析を通じて医療製品販売者を支援するシステムのプロトタイピングを作成しました。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: マネージャ 1名、開発者 2名。
 * **使用した技術**: Python / Django / PostgreSQL / JavaScript / D3.js / Bootstrap / AWS / Ansible / HTML / CSS
 
 **Web reservation application for new graduate job interview**
@@ -94,7 +88,11 @@
 * **プロジェクトの規模**: 4 developers.
 * **使用した技術**: PHP / PostgreSQL / JavaScript / jQuery
   
-etc...  
+## 活動
+**機械学習アプリケーションの事例研究に関するプレゼンテーション**
+* **開催日**: 2017/10/27
+* **開催場所**: [豊島区役所](http://www.city.toshima.lg.jp/012/018294.html)
+* **Document**: "[アクセスユーザーに会員登録させないでおすすめ商品情報を表示して利益を上げる方法](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)"
 
 ## 所属
 **TransAI Inc., Tokyo, Japan**
