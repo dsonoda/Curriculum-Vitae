@@ -5,8 +5,8 @@
 * **Twitter**: [@d5ono](https://twitter.com/d5ono)  
 
 ## SUMMARY
-* 10+ years of experience in development of web contents management system and project management.
 * 11 months of experience in development of data analysis & visualization application & recommendation engine by machine learning.
+* 10+ years of experience in development of web contents management system and project management.
 
 ## SKILLS
 | TITLE | REMARKS |
