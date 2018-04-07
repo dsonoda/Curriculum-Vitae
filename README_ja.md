@@ -1,4 +1,4 @@
-# 園田大輔
+# 園田 大輔
 * **E-mail**: dksonoda@gmail.com  
 * **Github**: https://github.com/dsonoda  
 * **Blog**: http://d5ono.hatenablog.com  
@@ -95,14 +95,14 @@
 * **Document**: "[アクセスユーザーに会員登録させないでおすすめ商品情報を表示して利益を上げる方法](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)"
 
 ## 所属
-**TransAI Inc., Tokyo, Japan**
-* **Position**: CTO / Founder
-* **期間**: February 2018 - Present
+**TransAI Inc.**
+* **ポジション**: CTO / Founder
+* **期間**: 2018/5 - Present
 
-**[Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan**
-* **Position**: Software Engineer
-* **期間**: January 2008 – Present
+**[株式会社インタークエスト](https://www.iqnet.co.jp)**
+* **ポジション**: ソフトウェアエンジニア
+* **期間**: 2008/1 – 2018/5
 
 ## 最終学歴
-**[Tama Art University](http://www.tamabi.ac.jp), Tokyo, Japan**
-* Bachelor of Arts, March 2004
+**[多摩美術大学](http://www.tamabi.ac.jp)**
+* 2004/3 美術学部絵画学科油画専攻卒業
