@@ -22,70 +22,70 @@
 * **期間**: 2017/10 - 現在
 * **概要**: ユーザー追跡データとサイトクッキーを使用して、ユーザーに不動産情報を推奨して表示するシステムを開発しました。十分なデータが存在しなかったため、確率分布を利用した機械学習データの生成処理も作成しました。
 * **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
-* **プロジェクトの規模**: マネージャ 1名、開発者 2名。
+* **プロジェクトの規模**: マネージャ 1名、プログラマ 2名。
 * **使用した技術**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
 
 **データ分析による医療製品販売サポートのためのWebアプリケーション**
 * **期間**: 2017/6 – 2017/7
 * **概要**: 日本の地域の特性を散布図・棒グラフ・地図によって可視化し、データ分析を通じて医療製品販売者を支援するシステムのプロトタイピングを作成しました。
 * **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
-* **プロジェクトの規模**: マネージャ 1名、開発者 2名。
+* **プロジェクトの規模**: マネージャ 1名、プログラマ 2名。
 * **使用した技術**: Python / Django / PostgreSQL / JavaScript / D3.js / Bootstrap / AWS / Ansible / HTML / CSS
 
-**Web reservation application for new graduate job interview**
-* **期間**: April 2017 – February 2018
-* **概要**: Developed a web reservation application for grad hiring and integrated with existing in-house system developed by using SalesForce. The system had more than 60,000 users.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 3 developers.
+**新卒採用面接のWeb予約申込みシステム**
+* **期間**: 2017/4 – 2018/5
+* **概要**: Salesforceの既存社内システムとAPI連携する新卒採用面接のためのWeb予約アプリケーションを開発しました。このシステムには60,000人以上のユーザーがいます。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: プログラマ 3名。
 * **使用した技術**: PHP / ZendFramework / PostgreSQL / JavaScript / jQuery
 
-**Web application that manages book meta information**
-* **期間**: November 2016 – February 2017
-* **概要**: Developed a system for managing irregular book data in a unified format.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 2 developers.
+**書籍メタ情報管理のためのWebアプリケーション**
+* **期間**: 2016/11 – 2017/2
+* **概要**: 書籍のメタ情報を暗号化してダウンロードできるCMSを開発しました。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: プログラマ 2名。
 * **使用した技術**: PHP / CakePHP / MySQL / JavaScript / jQuery
 
-**Information display management function of credit company website**
-* **期間**: April 2016 – May 2016
-* **概要**: Developed a function to control the display of data on the top page of a major Japanese credit company. In order to minimize the influence on the server side implementation of the existing system, Implemented it all with JavaScript.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 2 developers.
+**クレジットカード会社の特典表示制御機能開発**
+* **期間**: 2016/4 – 2016/5
+* **概要**: 某大手クレジット会社のサイトの会員特典データ表示を制御する機能を開発しました。既存システムのサーバー側実装への影響を最小限に抑えるために、JavaScriptですべてを実装しました。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: プログラマ 2名。
 * **使用した技術**: JavaScript / jQuery
 
-**API of packaging system for inventory control of apparel logistics**
-* **期間**: November 2015 – February 2016
-* **概要**: Replaced data processing between processes that manage each process from manufacture to shipment of apparel products from processing using files to processing using API.
-* **担当**: Programmer
-* **プロジェクトの規模**: 1 manager and 3 developers.
-* **使用した技術**: PHP / PostgreSQL
+**アパレル物流の在庫管理用パッケージングシステムのAPI開発**
+* **期間**: 2015/11 – 2016/2
+* **概要**: アパレル製品の製造から出荷までの各プロセス別機能間を結ぶデータ連携処理を、ファイルを使用した処理からAPI処理にリニューアルしました。
+* **担当**: プログラマ
+* **プロジェクトの規模**: プロジェクトマネージャ 1名、プログラマ 3名。
+* **使用した技術**: PHP / JavaScript / PostgreSQL
 
-**Web reservation system for conference rooms**
-* **期間**: November 2014 – March 2015
-* **概要**: Developed the web reservation system that can manage various complex reservations such as reserve one conference room divided into multiple rooms.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 1 manager and 5 developers.
-* **使用した技術**: PHP / ZendFramework / SQL Server / JavaScript / jQuery / LDAP authentication login
+**会議室のWeb予約システム**
+* **期間**: 2014/11 – 2015/5
+* **概要**: 某大手会社における商品販促のためのセミナー会議室のWeb予約システムを開発しました。1つの会議室を分割もしくは統一して予約でき、その他様々な複雑な予約制御を管理できるようにしました。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: プロジェクトマネージャ 1名、プログラマ 5名。
+* **使用した技術**: PHP / ZendFramework / SQL Server / JavaScript / jQuery / LDAP認証
 
-**Web reservation system for sports gym**
-* **期間**: September 2013 – October 2013
-* **概要**: Developed web reservation system for gym facilities and lessons. Automated the lottery process which had previously been manually registered for winning.
-* **担当**: Project Leader / Project management / Programmer
-* **プロジェクトの規模**: 4 developers.
+**スポーツジムのWeb予約システム**
+* **期間**: 2013/9 – 2013/10
+* **概要**: ジム設備とレッスンのWeb予約システムを開発しました。それまで手作業で実施されていた予約抽選プロセスを自動化しました。
+* **担当**: プロジェクトリーダー / プロジェクトマネージャ / プログラマ
+* **プロジェクトの規模**: プログラマ 4名。
 * **使用した技術**: PHP / ZendFramework / PostgreSQL / JavaScript / jQuery
 
-**Web content management and settlement system**
-* **期間**: April 2013 – August 2013
-* **概要**: Developed content and settlement management system of a national singer unit in Japan.
-* **担当**: Programmer
-* **プロジェクトの規模**: 4 developers.
-* **使用した技術**: PHP / PostgreSQL / JavaScript / jQuery / GMO PAYMENT GATEWAY
+**アーティストのファンサイトのWebコンテンツ管理・決済システム**
+* **期間**: 2013/4 – 2013/8
+* **概要**: 某有名2組アーティストユニットのコンテンツ・決済管理システムを開発しました。
+* **担当**: プログラマ
+* **プロジェクトの規模**: プログラマ 4名。
+* **使用した技術**: PHP / PostgreSQL / JavaScript / jQuery / GMO PAYMENT GATEWAY決済
 
-**Portal web application for the biggest Japanese road service company**
+**ロードサービス会社のポータルWebアプリケーション**
 * **期間**: December 2008 – April 2009
-* **概要**: Developed a system that posts preferential information for members.
-* **担当**: Programmer
-* **プロジェクトの規模**: 4 developers.
+* **概要**: 某大手ロードサービス会社のメンバー特典情報を掲載するシステムを開発しました。
+* **担当**: プログラマ
+* **プロジェクトの規模**: プログラマ 4名。
 * **使用した技術**: PHP / PostgreSQL / JavaScript / jQuery
   
 ## 活動
@@ -104,5 +104,5 @@
 * **期間**: 2008/1 – 2018/5
 
 ## 最終学歴
-**[多摩美術大学](http://www.tamabi.ac.jp)**
+**[多摩美術大学](http://www.tamabi.ac.jp/index_j.htm)**
 * 2004/3 美術学部絵画学科油画専攻卒業
