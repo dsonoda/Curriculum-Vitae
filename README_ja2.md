@@ -6,16 +6,17 @@
 |Name|園田 大輔|
 |Location|東京都 目黒区|
 |E-mail|dksonoda@gmail.com|
-|Github|[@dsonoda](https://github.com/dsonoda)|
+|Github|[dsonoda](https://github.com/dsonoda)|
 |Blog|[programming memo](http://d5ono.hatenablog.com)|
 |Twitter|[@d5ono](https://twitter.com/d5ono)|
 |Education|2004/3 [多摩美術大学](http://www.tamabi.ac.jp/index_j.htm) 美術学部絵画学科油画専攻卒業|
 
 ## <a name="skill">スキル
 ### プログラミング言語 / フレームワーク
-| 言語 / フレームワーク | 使用期間 | 備考 |
+| 言語 / フレームワーク | 期間 | 備考 |
 |---|---|---|
-|Python|1年|ver3.x系。Webサイト構築に関する一通りの処理、処理負荷を考慮した並列処理、データの集計処理等を実装可能。[Raspgerry Pi](https://www.raspberrypi.org/)を使って簡単なハードウェア開発が可能。|
+|Python|1年|ver3.x系。
+Webサイト構築に関する一通りの処理、処理負荷を考慮した並列処理、データの集計処理等を実装可能。[Raspgerry Pi](https://www.raspberrypi.org/)を使って簡単なハードウェア開発が可能。|
 |Python(Django)|1年|Webサイト構築に関する一通りの処理を実装可能。|
 |PHP|10年|ver5.x系。Webサイト構築に関する一通りの処理を実装可能。サイト設計・実装・保守・リスク管理まで指導可能。|
 |PHP(CakePHP)|4年|ver2.x系。Webサイト構築に関する一通りの処理を実装可能。|
@@ -30,7 +31,7 @@
 |CSS|10年|基本的な知識を持っており、デザイナーの作成したファイルの微修正程度は可能。|
 |Bootstrap|2年|任意のテンプレートを用いて、構築したWebサイトのテンプレートへの組み込みが可能。|
 |Java|2ヶ月|オブジェクト指向を学ぶためにやった程度。|
-|Processing|4ヶ月|[Processing](https://processing.org/)。Java互換のビジュアル言語。Generative Art に興味があり、たまに触る程度。|
+|Processing|4ヶ月|[Generative Art](https://processing.org/)に興味があり、たまに触る程度。|
 |C|2ヶ月|[Arduino](https://www.arduino.cc/)を使ってハードウェア開発した時に少しやった程度。|
 
 ### インフラストラクチャー関連
