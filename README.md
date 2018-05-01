@@ -1,6 +1,7 @@
 # Daisuke Sonoda
 * **E-mail**: dksonoda@gmail.com  
 * **Github**: https://github.com/dsonoda  
+* **Linkedin**: https://www.linkedin.com/in/dsonoda  
 * **Blog**: http://d5ono.hatenablog.com  
 * **Twitter**: [@d5ono](https://twitter.com/d5ono)  
 
