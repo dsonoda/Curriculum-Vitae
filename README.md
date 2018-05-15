@@ -98,13 +98,9 @@ Main works:
 etc...  
 
 ## BELONGING
-**TransAI Inc., Tokyo, Japan**
-* **Position**: CTO / Founder
-* **From-To**: February 2018 - Present
-
 **[Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan**
 * **Position**: Software Engineer
-* **From-To**: January 2008 – Present
+* **From-To**: January 2008 – May 2008
 
 ## EDUCATION
 **[Tama Art University](http://www.tamabi.ac.jp), Tokyo, Japan**
