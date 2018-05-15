@@ -100,7 +100,7 @@ etc...
 ## BELONGING
 **[Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan**
 * **Position**: Software Engineer
-* **From-To**: January 2008 – May 2008
+* **From-To**: January 2008 – May 2018
 
 ## EDUCATION
 **[Tama Art University](http://www.tamabi.ac.jp), Tokyo, Japan**
