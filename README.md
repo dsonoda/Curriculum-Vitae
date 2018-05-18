@@ -27,11 +27,6 @@ Main works:
 * **Project scale**: 1 manager and 2 developers.
 * **Technology used**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
 
-**Presentation on machine learning application case study**
-* **Date**: October 27, 2017
-* **Place**: [Ward office of Toshima-ku](http://www.city.toshima.lg.jp/012/018294.html), Japan
-* **Document**: "[A method of increasing profit by displaying recommended product information for access user without user registration](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)"
-
 **Web application for medical product sales support through data analysis**
 * **From-To**: June 2017 – July 2017
 * **Summary**: Prototyped the system supporting medical product sellers through data analysis. Visualized characteristics of Japanese local area by many kinds of graphs: scatter plot, bar chart, map chart.
@@ -96,6 +91,12 @@ Main works:
 * **Technology used**: PHP / PostgreSQL / JavaScript / jQuery
   
 etc...  
+
+## ACTIVITY
+**Presentation on machine learning application case study**
+* **Date**: October 27, 2017
+* **Place**: [Ward office of Toshima-ku](http://www.city.toshima.lg.jp/012/018294.html), Japan
+* **Document**: "[A method of increasing profit by displaying recommended product information for access user without user registration](https://github.com/dsonoda/Curriculum-Vitae/blob/master/docs/slides/20171027.pdf)"
 
 ## BELONGING
 **[Inter Quest Inc.](https://www.iqnet.co.jp), Tokyo, Japan**
