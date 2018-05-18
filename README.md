@@ -1,5 +1,7 @@
 # Daisuke Sonoda
-* **E-mail**: dksonoda@gmail.com  
+I'm a web application engineer.  
+Currently I'm studying for career change to a machine learning engineer.  
+* **E-mail**: dksonoda@gmail.com  
 * **Github**: [dsonoda](https://github.com/dsonoda)  
 * **Linkedin**: [dsonoda](https://www.linkedin.com/in/dsonoda)  
 * **Blog**: [d5ono.hatenablog.com](http://d5ono.hatenablog.com)  
