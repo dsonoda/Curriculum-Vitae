@@ -1,5 +1,6 @@
 # Daisuke Sonoda
 Japanese [here](https://github.com/dsonoda/Curriculum-Vitae/blob/master/README_ja.md).  
+  
 I'm a web application engineer.  
 Currently I'm studying for career change to a machine learning engineer.  
 * **E-mail**: dksonoda@gmail.com  
