@@ -98,7 +98,7 @@ Main works:
 etc...  
 
 ## ACTIVITY
-**[http://kansai06.com/](AI Accelerator Program: kansAI0.6)**
+**[AI Accelerator Program: kansAI0.6](http://kansai06.com/)**
 * **From-To**: May 2018 – Present
 * **Summary**: I joined the team. We are developing a real-estate related recommendation engine.
 * **Role**: Programmer
