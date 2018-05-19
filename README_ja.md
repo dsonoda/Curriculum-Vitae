@@ -1,4 +1,5 @@
 # 職務経歴書
+&gt;[English](https://github.com/dsonoda/Curriculum-Vitae/blob/master/README.md) 
 
 ## 基本情報
 - 1年以上の機械学習によるデータ分析、可視化アプリケーション、及びレコメンドエンジンの開発経験。  
