@@ -99,9 +99,10 @@ etc...
 
 ## ACTIVITY
 **[AI Accelerator Program: kansAI0.6](http://kansai06.com/)**
-* **From-To**: May 2018 – Present
+* **From-To**: April 2018 – Present
 * **Summary**: I joined the team. We are developing a real-estate related recommendation engine.
 * **Role**: Programmer
+* **Technology used**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS / Ansible / HTML / CSS
 
 **Presentation on machine learning application case study**
 * **Date**: October 27, 2017
