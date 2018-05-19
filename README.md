@@ -7,7 +7,7 @@ Currently I'm studying for career change to a machine learning engineer.
 * **E-mail**: dksonoda@gmail.com  
 * **Github**: [dsonoda](https://github.com/dsonoda)  
 * **Linkedin**: [dsonoda](https://www.linkedin.com/in/dsonoda)  
-* **Blog**: [d5ono.hatenablog.com](http://d5ono.hatenablog.com)  
+* **Blog**: [code&wit](http://d5ono.hatenablog.com)  
 * **Twitter**: [@d5ono](https://twitter.com/d5ono)  
 
 ## SUMMARY
