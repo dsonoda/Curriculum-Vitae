@@ -4,7 +4,7 @@
 I'm a web application engineer.  
 Currently I'm studying for career change to a machine learning engineer.  
   
-* **E-mail**: dksonoda@gmail.com  
+* **E-mail**: mail@daisukesonoda.com  
 * **Github**: [dsonoda](https://github.com/dsonoda)  
 * **Linkedin**: [dsonoda](https://www.linkedin.com/in/dsonoda)  
 * **Blog**: [code&wit](http://d5ono.hatenablog.com)  
