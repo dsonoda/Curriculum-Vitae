@@ -10,7 +10,7 @@
 |---|-----|
 |Name|園田 大輔|
 |Location|東京都 目黒区|
-|E-mail|dksonoda@gmail.com|
+|E-mail|mail@daisukesonoda.com|
 |Github|[dsonoda](https://github.com/dsonoda)|
 |Linkedin|[dsonoda](https://www.linkedin.com/in/dsonoda/)|
 |Blog|[code&wit](http://d5ono.hatenablog.com)|
