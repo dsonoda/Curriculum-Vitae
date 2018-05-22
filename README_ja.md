@@ -10,12 +10,12 @@
 |---|-----|
 |Name|園田 大輔|
 |Location|東京都 目黒区|
-|Official site|[code&wit daisuke sonoda](https://daisukesonoda.com)|
+|Official site|[https://daisukesonoda.com](https://daisukesonoda.com)|
 |E-mail|mail@daisukesonoda.com|
 |Github|[dsonoda](https://github.com/dsonoda)|
 |Facebook|[Daisuke Sonoda](https://www.facebook.com/daisuke.sonoda.758)|
 |Linkedin|[dsonoda](https://www.linkedin.com/in/dsonoda/)|
-|Blog|[code&wit](http://d5ono.hatenablog.com)|
+|Blog|[http://d5ono.hatenablog.com](http://d5ono.hatenablog.com)|
 |Twitter|[@d5ono](https://twitter.com/d5ono)|
 |Education|2004/3 [多摩美術大学](http://www.tamabi.ac.jp/index_j.htm) 美術学部絵画学科油画専攻卒業|
 
