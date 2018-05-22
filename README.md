@@ -4,12 +4,12 @@
 I'm a web application engineer.  
 Currently, I'm studying to change my carrier to machine learning engineer.  
   
-* **Official site**: [code&wit daisuke sonoda](https://daisukesonoda.com)  
+* **Official site**: [https://daisukesonoda.com](https://daisukesonoda.com)  
 * **E-mail**: mail@daisukesonoda.com  
 * **Github**: [dsonoda](https://github.com/dsonoda)  
 * **Facebook**: [Daisuke Sonoda](https://www.facebook.com/daisuke.sonoda.758)  
 * **Linkedin**: [dsonoda](https://www.linkedin.com/in/dsonoda)  
-* **Blog**: [code&wit](http://d5ono.hatenablog.com)  
+* **Blog**: [http://d5ono.hatenablog.com](http://d5ono.hatenablog.com)  
 * **Twitter**: [@d5ono](https://twitter.com/d5ono)  
 
 ## SUMMARY
