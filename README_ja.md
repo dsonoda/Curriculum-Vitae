@@ -23,11 +23,12 @@
 ### プログラミング言語 / フレームワーク
 | 言語 / フレームワーク | 期間 | 備考 |
 |---|---|---|
-|Python|1年|ver3.x系。一通りの処理は実装可能。<br>[Raspgerry Pi](https://www.raspberrypi.org/)を使って簡単なハードウェア開発が可能。|
-|Python(Django)|1年|WebサイトのCMS構築に関する一通りの処理を実装可能。<br>参考: [django-cms-sampler](https://github.com/dsonoda/django-cms-sampler)|
-|PHP|10年|ver5.x系。Webサイト構築に関する一通りの処理を実装可能。<br>サイト設計・実装・保守・リスク管理まで指導可能。|
-|PHP(CakePHP)|4年|ver2.x系。Webサイト構築に関する一通りの処理を実装可能。|
-|PHP(ZendFramework)|8年|ver2.x系。Webサイト構築に関する一通りの処理を実装可能。|
+|Python|1.5年|ver3.x系。一通りの処理は実装可能。<br>[Raspgerry Pi](https://www.raspberrypi.org/)を使って簡単なハードウェア開発が可能。|
+|Python(Django)|1.5年|WebサイトCMSに関する様々な処理を実装可能。|
+|Python(Flask)|0.5年|WebサイトCMSに関する処理を実装可能。AWS Lambdaとの連携でサーバーレスサイトの構築が可能。|
+|PHP|10年|ver5.x系。WebサイトCMSに関する様々な処理を実装可能。<br>サイト設計・実装・保守・リスク管理まで指導可能。|
+|PHP(CakePHP)|4年|ver2.x系。WebサイトCMSに関する様々な処理を実装可能。|
+|PHP(ZendFramework)|8年|ver2.x系。WebサイトCMSに関する様々な処理を実装可能。|
 |SQL(PostgreSQL)|10年|ver9.x系。Webサイト構築のための基本的な設計が可能。|
 |SQL(MySQL)|10年|ver5.x系。Webサイト構築のための基本的な設計が可能。|
 |SQL(SQL Server)|2ヶ月|仕事で基本的な設計を少しやった程度。|
@@ -44,9 +45,9 @@
 ### インフラストラクチャー関連
 | タイトル | 使用期間 | 備考 |
 |---|---|---|
+|AWS|1.5年|EC2、S3等を使用し、Webサイト構築が可能。また、Lambdaでサーバーレスサイトの構築が可能。|
 |Vagrant|1年|Python × Django案件はすべてVagrantで開発。|
 |Ansible|2ヶ月|基本的なデプロイ設定・実行が可能。|
-|AWS|0.1年|Ansibleを使って、用意されたEC2にデプロイをした程度。|
 
 ### 開発工程
 一通り、プロジェクト管理、要件定義、DB設計、開発、検証、運用、保守は経験済み。  
