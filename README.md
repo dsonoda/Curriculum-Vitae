@@ -13,19 +13,27 @@ Currently, I'm studying to change my carrier to machine learning engineer.
 * **Twitter**: [@d5ono](https://twitter.com/d5ono)  
 
 ## SUMMARY
-* 1 years of experience in development of data analysis & visualization application & recommendation engine by machine learning.
+* 1.5 years of experience in development of data analysis & visualization application & recommendation engine by machine learning.
 * 10+ years of experience in development of web contents management system and project management.
 
 ## SKILLS
 | TITLE | REMARKS |
 |------|--------|
-| Web development  | Python / Django / PHP / CakePHP / ZendFramework / MySQL / PostgreSQL / SQL Server / Java / HTML / CSS / JavaScript / jQuery / Bootstrap / D3.js / AWS / Ansible |
+| Web development  | Python / Django / Flask / PHP / CakePHP / ZendFramework / MySQL / PostgreSQL / SQL Server / Java / HTML / CSS / JavaScript / jQuery / Bootstrap / D3.js / AWS(EC2, S3, Lambda & etc...) / Ansible |
 | Data analysis | Machine learning (Supervised learning) / Data visualization |
 | Project management | Requirement definition / Database design / Coding / Testing / Operation / Maintenance |
 | Hardware and IoT | Raspberry Pi / Arduino / Processing |
 
 ## EXPERIENCE & ACCOMPLISHMENTS
 Main works: 
+
+**Design and development of machine learning execution platform (SAAS)**
+* **From-To**: June 2018 – Present
+* **Summary**: Developing a SAAS platform that enables users to simply execute machine learning and graphically display the results.
+This system has been carefully designed to minimize execution time in AWS and to avoid unnecessary operation costs.
+* **Role**: Programmer
+* **Project scale**: 1 manager and several developers.
+* **Technology used**: Python / Django / scikit-learn / PostgreSQL / JavaScript / jQuery / Bootstrap / AWS(Lambda, EC2, S3, EMR & etc...) / Ansible / HTML / CSS
 
 **Web application having recommender system for real estate**
 * **From-To**: October 2017 – Present
