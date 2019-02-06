@@ -10,8 +10,8 @@ Currently, I'm studying to change my carrier to machine learning engineer.
 * **Facebook**: [Daisuke Sonoda](https://www.facebook.com/daisuke.sonoda.758)  
 * **Linkedin**: [dsonoda](https://www.linkedin.com/in/dsonoda)  
 * **Blog**: [http://d5ono.hatenablog.com](http://d5ono.hatenablog.com)  
-* **Twitter**: [@d_sonoda](https://twitter.com/d_sonoda)  
-
+* **Twitter**: [@d5onoda](https://twitter.com/d5onoda)  
+  
 ## SUMMARY
 * 1.5 years of experience in development of data analysis & visualization application & recommendation engine by machine learning.
 * 10+ years of experience in development of web contents management system and project management.
